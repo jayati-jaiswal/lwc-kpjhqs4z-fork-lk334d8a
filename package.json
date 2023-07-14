@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/jayati-jaiswal.lwc-kpjhqs4z-fork-lk334d8a",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve mtc5RA8uGpzFsGBj1OGV --open"
+  }
+}
